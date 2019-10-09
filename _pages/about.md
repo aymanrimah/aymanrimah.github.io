@@ -12,7 +12,9 @@ I am PhD student at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Ors
 
 
 ## Academic Background
-PhD, New York University, 2009-2014 
+PhD, ENS Paris Saclay, 2018- 
+
+
 Masters,Ecole Polytechnique, 2014-2018
 Engineering 
 B.S., Ecole Polytechnique, 2014-2018
