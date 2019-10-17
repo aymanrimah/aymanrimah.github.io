@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,24 +15,18 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
- -->
- 
- ---
-layout: archive
-permalink: /publications/ 
-author_profile: true
----
 
-<h2>Low regularity change of variables and composition</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'composition' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
 
-<h2>Flow regularity of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'flowregularity' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
+#<h2>Low regularity change of variables and composition</h2>
+#  {% for post in site.publications reversed %} 
+#    {% if post.pubtype == 'composition' %} 
+#      {% include archive-single.html %} 
+#    {% endif %}
+#  {% endfor %}
+
+#<h2>Flow regularity of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
+#  {% for post in site.publications reversed %} 
+#    {% if post.pubtype == 'flowregularity' %} 
+#      {% include archive-single.html %} 
+#    {% endif %}
+#  {% endfor %}
