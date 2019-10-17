@@ -18,7 +18,7 @@ author_profile: true
 
  ---
 layout: archive
-permalink: /publications/
+permalink: /publications/ 
 author_profile: true
 ---
 
