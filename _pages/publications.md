@@ -22,16 +22,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Preprints</h2>
+<h2>Low regularity change of variables and composition</h2>
   {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'preprint' %} 
+    {% if post.pubtype == 'composition' %} 
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
 
-<h2>Conferences</h2>
+<h2>Flow regularity of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
   {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'conference' %} 
+    {% if post.pubtype == 'flowregularity' %} 
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
