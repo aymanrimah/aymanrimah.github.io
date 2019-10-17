@@ -25,4 +25,4 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 
 ## Recent Publications 
 [ON PARACOMPOSITION AND CHANGE OF VARIABLES IN
-PARADIFFERENTIAL OPERATORS](http://aymansaid.github.io/files/Paracomposition.pdf)
+PARADIFFERENTIAL OPERATORS](http://aymanrimah.github.io/files/Paracomposition.pdf)
