@@ -14,10 +14,11 @@ I am PhD student at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Ors
 ## Academic Background
 PhD, ENS Paris Saclay, 2018- 
 
+Masters 2 AAG, Paris Sud university, 2018
 
-Masters,Ecole Polytechnique, 2014-2018
-Engineering 
-B.S., Ecole Polytechnique, 2014-2018
+Masters,Ecole Polytechnique, 2016-2018
+
+Engineering and B.S., Ecole Polytechnique, 2014-2018
 
 
 ## [Curriculum Vitae](https://aymansaid.github.io/files/cv.pdf)
