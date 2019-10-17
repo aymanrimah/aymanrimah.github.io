@@ -8,7 +8,7 @@
   {% include archive-single.html %}
 {% endfor %}
 
-
+ 
 <h2>Low regularity change of variables and composition</h2>
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'composition' %} 
