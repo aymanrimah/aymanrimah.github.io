@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Paracomposition
 pubtype: 'composition'
 venue: 'Arxiv Preprint'
-date: 2019-#-#
+date: 2019-01-01
 paperurl: 'https://aymanrimah.github.io/files/Paracomposition.pdf'
 ---
 
