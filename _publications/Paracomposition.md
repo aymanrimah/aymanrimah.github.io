@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2019-10-25
 ---> 
 pubtype: 'composition'
-<!--- 
+<!---  
 venue: 'Journal 1'
 ---> 
 paperurl: 'https://aymanrimah.github.io/files/Paracomposition.pdf'
