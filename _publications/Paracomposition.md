@@ -1,5 +1,5 @@
 --- 
-title: "Paracomposition"
+title: "Paracomposition" 
 collection: publications  
 permalink: /publication/Paracomposition
 pubtype: 'composition'
