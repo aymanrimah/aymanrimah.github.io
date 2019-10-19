@@ -1,4 +1,4 @@
----
+--- 
 title: "Paracomposition"
 collection: publications  
 permalink: /publication/Paracomposition
