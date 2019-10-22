@@ -24,9 +24,9 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 ## [Curriculum Vitae](http://aymanrimah.github.io/files/cv.pdf)
 
 ## Recent Papers
-[ON PARACOMPOSITION AND CHANGE OF VARIABLES IN
+-[ON PARACOMPOSITION AND CHANGE OF VARIABLES IN
 PARADIFFERENTIAL OPERATORS](http://aymanrimah.github.io/files/Paracomposition.pdf)
 
-[A GEOMETRIC PROOF OF THE QUASI-LINEARITY OF THE
+-[A GEOMETRIC PROOF OF THE QUASI-LINEARITY OF THE
 WATER-WAVES SYSTEM](https://aymanrimah.github.io/files/A geometric proof of the Quasi-linearity of the water-waves system.pdf)
 
