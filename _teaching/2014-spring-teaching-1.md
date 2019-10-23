@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Integrated courses on functional Analysis, M1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2019M1Analyse
+venue: "ENS Paris Saclay, CMLA"
+date: 2019-01-01
+location: "Paris, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The lecture notes by my advisor Thomas Alazard can be found [here](http://talazard.perso.math.cnrs.fr/cours.pdf) in french.
+The Integrated courses notes can are due to Arthur Leclaire and can be found [here](https://www.math.u-bordeaux.fr/~aleclaire/analyse_fonctionnelle_M1/leclaire_TD_analyse_fonctionnelle_1718.zip)
