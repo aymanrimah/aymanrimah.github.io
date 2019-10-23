@@ -10,7 +10,8 @@ paperurl: 'https://aymanrimah.github.io/files/A geometric proof of the Quasi-lin
   In the first part of this paper we prove that the flow associated to the Burgers equation with a non local term
  of the form <img src="https://latex.codecogs.com/gif.latex?H\langle D \rangle^\alpha u " /> fails
  to be uniformly continuous from bounded sets of <img src="https://latex.codecogs.com/gif.latex?H^s(\mathbb D)" /> 
- to <img src="https://latex.codecogs.com/gif.latex?C^0([0,T],H^s(\mathbb D))" /> for <img src="https://latex.codecogs.com/gif.latex? T>0 " /> <img src="https://latex.codecogs.com/gif.latex?s>\frac{1}{2}+\max(\alpha,1), \ 0\leq \alpha <2, \ \mathbb D=\mathbb R \ \text{or} \ \mathbb T " /> and H is the Hilbert transform. 
+ to <img src="https://latex.codecogs.com/gif.latex?C^0([0,T],H^s(\mathbb D))" /> for <img src="https://latex.codecogs.com/gif.latex? T>0 " /> <img src="https://latex.codecogs.com/gif.latex?s>\frac{1}{2}+\max(\alpha,1), \ 0\leq \alpha <2," />
+ <img src="https://latex.codecogs.com/gif.latex? T>0 " /> <img src="https://latex.codecogs.com/gif.latex? \ \mathbb D=\mathbb R \ \text{or} \ \mathbb T," /> and H is the Hilbert transform. 
  Furthermore we show that the flow can not be <img src="https://latex.codecogs.com/gif.latex?C^1" /> 
 from bounded sets of <img src="https://latex.codecogs.com/gif.latex?H^s(\mathbb D)" /> to <img src="https://latex.codecogs.com/gif.latex?C^0([0,T],H^{s-1+(\alpha-1)^+ +\eps}(\mathbb D)),\ \text{for } \eps>0 " />.
 We generalize this result to a large class of non linear transport-dispersive equations in any dimension, that in particular 
