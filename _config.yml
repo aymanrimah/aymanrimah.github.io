@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ayman Said"
 title_separator          : "-"
-name                     : &name "Ayman Said"
+name                     : &name "Ayman Said (Rimah)"
 description              : &description "PhD Student"
 url                      : https://aymanrimah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
