@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayman Said (Rimah)"
+title                    : "Ayman Rimah Said"
 title_separator          : "-"
-name                     : &name "Ayman Said (Rimah)"
+name                     : &name "Ayman Rimah Said"
 description              : &description "PhD Student"
 url                      : https://aymanrimah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayman Said"
+  name             : "Ayman Rimah Said"
   avatar           : "https://aymanrimah.github.io/files/P1030902.JPG"
   bio              : "PhD Student"
   location         : "Université Paris Saclay"
