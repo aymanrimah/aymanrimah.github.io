@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/A geometric proof of the Quasi-linearity of the water-waves system
 pubtype: 'flowregularity'
 venue: 'arXiv preprint'
-date: 2019-01-01
+date: 2020-01-01
 paperurl: 'https://aymanrimah.github.io/files/A geometric proof of the Quasi-linearity of the water-waves system1.pdf'
 ---
   In the first part of this paper we prove that the flow associated to the Burgers equation with a non local term
