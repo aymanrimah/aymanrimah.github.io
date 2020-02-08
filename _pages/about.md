@@ -25,7 +25,6 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 
 ## Recent Papers
 -[On paracomposition and change of variables in Paradifferential operators](http://aymanrimah.github.io/files//Paracomposition1.pdf)
-A geometric proof of the Quasi-linearity of the water-waves system
 
 -[A geometric proof of the Quasi-linearity of the water-waves system](https://aymanrimah.github.io/files/A geometric proof of the Quasi-linearity of the water-waves system1.pdf)
 
