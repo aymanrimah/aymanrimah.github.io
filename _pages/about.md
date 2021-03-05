@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Orsay since september 2018 under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations without Boundary." I am interested in mathematical analysis, functional analysis, the analysis of PDE and fluid mechanics.
+I am a PhD student at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Orsay since september 2018 under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations without Boundary." I am interested in mathematical analysis, functional analysis, the analysis of PDE and fluid mechanics.
 
+I am currently a Program(https://www.msri.org/programs/327) associate at MSRI, Berkley.
+
+On August 2021 I will start a Post Doc at Duke University with Pr. Tarel Elgindi(http://www.math.ucsd.edu/~telgindi/).
 
 ## Academic Background
-PhD, ENS Paris Saclay, 2018- 
+PhD, ENS Paris Saclay, 2018-2021
 
 Masters 2 AAG, Paris Sud university, 2017-2018
 
