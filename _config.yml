@@ -86,10 +86,10 @@ author:
   location         : "Université Paris Saclay"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=e09jSw4AAAAJ&view_op=list_works&gmla=AJsN-F7NbyfV5wlvMvOThBCxsoF0s-Ndyi-EIrJSJIAXYfk8KZuNyaCmIp-5Ucpm9TdyxfPlsC3UJeXu0vR-elnrS59jFhd3_Q"
   email            : "aymanrimah@u-psud.fr"
   researchgate     : "https://www.researchgate.net/profile/Ayman_Said4"
-  uri              :
+  arXiv            : "http://arxiv.org/a/said_a_1"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3341-013X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
