@@ -12,7 +12,7 @@ I am a PhD student at ENS Paris-Saclay and at the Laboratoire Mathématiques d'O
 
 I am currently a Program(https://www.msri.org/programs/327) associate at MSRI, Berkley.
 
-On August 2021 I will start a Post Doc at Duke University with Pr. Tarel Elgindi(http://www.math.ucsd.edu/~telgindi/).
+On August 2021 I will start a Post Doc at Duke University with Pr. Tarek Elgindi(http://www.math.ucsd.edu/~telgindi/).
 
 ## Academic Background
 PhD, ENS Paris Saclay, 2018-2021
@@ -32,3 +32,6 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 -[A geometric proof of the Quasi-linearity of the water-waves system](https://aymanrimah.github.io/files/A geometric proof of the Quasi-linearity of the water-waves system1.pdf)
 
 -[Regularity results on the flow map of periodic dispersive Burgers type equations and the Gravity-Capillary equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations.pdf)
+
+-[On the Cauchy problem of dispersive Burgers Type
+equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations.pdf)
