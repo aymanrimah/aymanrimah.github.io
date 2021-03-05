@@ -1,7 +1,7 @@
 --- 
 title: "On the Cauchy problem of dispersive Burgers type equations" 
 collection: publications  
-permalink: /publication/Regularity results on the flow map of periodic dispersive Burgers type equations and the Gravity-Capillary equations
+permalink: /publication/On the Cauchy problem of dispersive Burgers type equations
 pubtype: 'flowregularity'
 venue: 'arXiv preprint'
 date: 2021-01-01
