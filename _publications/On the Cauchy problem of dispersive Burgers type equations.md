@@ -21,3 +21,4 @@ where $R_\infty$ is a regularizing operator under the control of $\left\Vert u\r
 [Download paper here](https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf)
  
   
+ 
