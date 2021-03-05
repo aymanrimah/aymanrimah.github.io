@@ -34,4 +34,4 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 -[Regularity results on the flow map of periodic dispersive Burgers type equations and the Gravity-Capillary equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations.pdf)
 
 -[On the Cauchy problem of dispersive Burgers Type
-equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations.pdf)
+equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations.pdf) 
