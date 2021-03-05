@@ -24,7 +24,7 @@ author_profile: true
     {% endif %}
   {% endfor %}
 
-<h2>Flow regularity of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
+<h2> Study of the Flow map of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
  {% for post in site.publications reversed %} 
     {% if post.pubtype == 'flowregularity' %} 
       {% include archive-single.html %} 
