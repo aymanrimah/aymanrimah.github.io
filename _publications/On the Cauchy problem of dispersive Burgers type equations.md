@@ -5,7 +5,7 @@ permalink: /publication/On the Cauchy problem of dispersive Burgers type equatio
 pubtype: 'flowregularity'
 venue: 'arXiv preprint'
 date: 2021-01-01
-paperurl: 'https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf'
+paperurl: 'https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf' 
 ---
 
 We study the paralinearised weakly dispersive Burgers type equation: 
