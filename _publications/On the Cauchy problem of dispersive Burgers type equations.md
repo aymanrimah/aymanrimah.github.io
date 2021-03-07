@@ -17,7 +17,7 @@ Through a paradifferential complex Cole-Hopf type gauge transform we introduced 
 For $\alpha\in ]2,3[$ we show that we can completely conjugate the paralinearised dispersive Burgers equation to a semi-linear equation of the form:
 $$\partial_tu+ \partial_x D^{\alpha-1}u=R_\infty(u),\ \alpha \in ]2,3[,$$ where $R_\infty$ is a regularizing operator under the control of  $\left\Vert u\right \Vert_{L^\infty_t C^{2-\alpha}_*}$.
 
-[Download paper here](https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf)
+[Download paper here](https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf) 
  
   
  
