@@ -20,10 +20,6 @@ terme dispersif le flot est effectivement Lipschitz au prix d'exactement 2-alpha
 
 
 
-----------------------------------------------------------------------------------------------------
-
-
-
 
 Abstract: The Euler equation with free boundary, i.e the water waves system, describes the evolution of the interface between air and a perfect irrotational fluid. It is a system of two coupled equations : the Euler equation in the interior of the domain and a kinematic equation describing the deformation of the domain. The 4 works that constitute the body of this thesis can be divided into three connected subjects on the Cauchy problem of the water waves system.
 
