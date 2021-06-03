@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 --->
 
-<h2>Thesis Manuscript: On the flow map of the Euler equation with free boundary </h2>
+<h2>Thesis Manuscript </h2>
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'thesis' %} 
       {% include archive-single.html %} 
