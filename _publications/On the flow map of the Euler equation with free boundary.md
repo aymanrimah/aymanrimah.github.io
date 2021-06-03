@@ -1,5 +1,5 @@
 --- 
-title: "On the flow map of the Euler equation withh free boundary" 
+title: "On the flow map of the Euler equation with free boundary" 
 collection: publications  
 permalink: /publication/On the flow map of the Euler equation with free boundary
 pubtype: 'thesis'
