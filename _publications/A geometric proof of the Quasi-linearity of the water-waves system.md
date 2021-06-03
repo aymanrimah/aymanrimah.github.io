@@ -1,6 +1,6 @@
 --- 
 title: "A geometric proof of the Quasi-linearity of the water-waves system" 
-collection: publications  
+collection: publications   
 permalink: /publication/A geometric proof of the Quasi-linearity of the water-waves system
 pubtype: 'flowregularity'
 venue: 'arXiv preprint'
