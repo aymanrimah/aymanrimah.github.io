@@ -16,6 +16,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 --->
+
+<h2>Thesis Manuscript: On the flow map of  Euler equation with free boundary </h2>
+  {% for post in site.publications reversed %} 
+    {% if post.pubtype == 'thesis' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
+
  
 <h2>Low regularity change of variables and composition</h2>
   {% for post in site.publications reversed %} 
