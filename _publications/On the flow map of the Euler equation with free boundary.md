@@ -1,7 +1,7 @@
 --- 
-title: "A geometric proof of the Quasi-linearity of the water-waves system" 
+title: "On the flow map of the Euler equation withh free boundary" 
 collection: publications  
-permalink: /publication/On the flow map of the Euler equation withh free boundary
+permalink: /publication/On the flow map of the Euler equation with free boundary
 pubtype: 'thesis'
 venue: 'unpublished manuscript'
 date: 2021-01-01
@@ -17,7 +17,13 @@ terme dispersif le flot est effectivement Lipschitz au prix d'exactement 2-alpha
 2) Afin de démontrer les résultats dans le deuxième travail, nous avons développé une généralisation para-différentielle d’une transformation de jauge complexe de type Cole-Hopf introduite pour la première fois par T. Tao pour l’équation de Benjamin-Ono. Dans un troisième travail, nous utilisons cette généralisation pour améliorer les résultats connus sur une conjecture numérique dûe à Saut et Klein sur l’équation de Burgers dispersive.
 
 3) Afin de démontrer les différents résultats dans ses 3 travaux, nous avons étudié et affiné différents résultats connus en calcul paradifférentiel. Plus précisément dans un quatrième travail nous améliorons certaines estimations sur l’opérateur de paracomposition introduit par Alinhac, nous donnons une preuve du changementde variables dans le calcul paradifférentiel et enfin nous étudions comment le support du cut-off fréquentiel varie après la composition d’opérateurs para-différentiels.
+
+
+
 ----------------------------------------------------------------------------------------------------
+
+
+
 
 Abstract: The Euler equation with free boundary, i.e the water waves system, describes the evolution of the interface between air and a perfect irrotational fluid. It is a system of two coupled equations : the Euler equation in the interior of the domain and a kinematic equation describing the deformation of the domain. The 4 works that constitute the body of this thesis can be divided into three connected subjects on the Cauchy problem of the water waves system.
 
