@@ -30,7 +30,7 @@ author_profile: true
     {% if post.pubtype == 'composition' %} 
       {% include archive-single.html %} 
     {% endif %}
-  {% endfor %}
+  {% endfor %} 
 
 <h2> Study of the Flow map of hyperbolic, transport and dispersive type PDEs and applications to the water waves system</h2>
  {% for post in site.publications reversed %} 
