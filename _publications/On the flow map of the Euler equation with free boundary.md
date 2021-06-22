@@ -40,10 +40,10 @@ Abstract: The Euler equation with free boundary, i.e the water waves system, des
 
 
 3) In order to prove the different results in the previous three papers, we needed to study and refine different known results in paradifferential calculus. More precisely in a forth paper we improve some estimates on the paracomposition operator introduced by Alinhac, give a proof of the change of variables in paradifferential operators and finally study the frequency cut off after composition of paradifferential operators.
-
-The thesis defense will take place on Thursday the 17th of june 2021 at 14h30 Paris time. 
+ 
 [Download manuscript here](https://aymanrimah.github.io/files/Thesis manuscript .pdf)
 <!---
+The thesis defense will take place on Thursday the 17th of june 2021 at 14h30 Paris time.
 and will be streamed live at the following adress:
 https://webdiff.math.u-psud.fr/5cdd811151436403ed0d9904
 [Download paper here](https://aymanrimah.github.io/files/Thesis manuscript .pdf)
