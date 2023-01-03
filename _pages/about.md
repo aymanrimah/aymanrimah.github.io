@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Griffiths Research Assistant Professor (postdoc) at [Duke University](https://math.duke.edu/), hosted by [Pr. Tarek Elgindi](http://www.math.ucsd.edu/~telgindi/).
 
-I obtained my PhD at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Orsay under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations without Boundary." I am interested in mathematical analysis, functional analysis, the analysis of PDE and fluid mechanics.
+I obtained my PhD at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Orsay under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations without Boundary." I am interested in mathematical analysis, microlocal analysis, the analysis of PDE and fluid mechanics.
 
 <!--- I am currently a [Program](https://www.msri.org/programs/327) associate at MSRI, Berkley.--->
 
@@ -19,9 +19,9 @@ PhD, ENS Paris Saclay, 2018-2021
 
 Masters 2 AAG, Paris Sud university, 2017-2018
 
-Masters, Ecole Polytechnique, 2016-2018
+Masters, École Polytechnique, 2016-2018
 
-Engineering and B.S., Ecole Polytechnique, 2014-2018 
+Engineering and B.S., École Polytechnique, 2014-2018 
 
 
 ## [Curriculum Vitae](http://aymanrimah.github.io/files/cv Ayman.pdf)
