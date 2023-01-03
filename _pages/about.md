@@ -21,7 +21,7 @@ Masters 2 AAG, Paris Sud university, 2017-2018
 
 Masters, Ecole Polytechnique, 2016-2018
 
-Engineering and B.S., Ecole Polytechnique, 2014-2018
+Engineering and B.S., Ecole Polytechnique, 2014-2018 
 
 
 ## [Curriculum Vitae](http://aymanrimah.github.io/files/cv Ayman.pdf)
