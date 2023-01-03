@@ -26,7 +26,7 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 
 ## [Curriculum Vitae](http://aymanrimah.github.io/files/cv Ayman.pdf)
 
-## Recent Papers
+<!--- ## Recent Papers
 -[On paracomposition and change of variables in Paradifferential operators](http://aymanrimah.github.io/files//Paracomposition1.pdf)
 
 -[A geometric proof of the Quasi-linearity of the water-waves system](https://aymanrimah.github.io/files/A geometric proof of the Quasi-linearity of the water-waves system1.pdf)
@@ -34,4 +34,4 @@ Engineering and B.S., Ecole Polytechnique, 2014-2018
 -[Regularity results on the flow map of periodic dispersive Burgers type equations and the Gravity-Capillary equations](https://aymanrimah.github.io/files/Positive regularity results on the flow of periodic quasi-linear dispersive Burgers type equations and the Gravity-Capillary equations v2.pdf)
 
 -[On the Cauchy problem of dispersive Burgers Type
-equations](https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf) 
+equations](https://aymanrimah.github.io/files/On the global well posedness of the weakly dispersive Burgers type equation.pdf) --->
