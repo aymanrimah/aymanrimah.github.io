@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ayman Rimah Said"
 title_separator          : "-"
 name                     : &name "Ayman Rimah Said"
-description              : &description "PhD Student"
+description              : &description "Postdoc"
 url                      : https://aymanrimah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aymanrimah.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ayman Rimah Said"
   avatar           : "https://aymanrimah.github.io/files/P1030902.JPG"
-  bio              : "PhD Student"
-  location         : "Université Paris Saclay"
+  bio              : "Postdoc"
+  location         : "Duke University"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=e09jSw4AAAAJ&view_op=list_works&gmla=AJsN-F7NbyfV5wlvMvOThBCxsoF0s-Ndyi-EIrJSJIAXYfk8KZuNyaCmIp-5Ucpm9TdyxfPlsC3UJeXu0vR-elnrS59jFhd3_Q"
   email            : "aymanrimah@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ayman_Said4"
+  researchgate     :
   arXiv            : "http://arxiv.org/a/said_a_1"
   bitbucket        :
   codepen          :
