@@ -16,12 +16,12 @@ Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2022.
 Ayman R. Said. arXiv preprint 2021.
 
 [A geometric proof of the quasi-linearity of the water-waves system](https://arxiv.org/abs/2002.02940)<br/>
-Ayman R. Said. to appear in Indiana University Mathematics Journal 2022.
+Ayman R. Said. to appear in Indiana University Mathematics Journal 2023.
 
 # The Cauchy problem of the dispersive Burgers equation
 
 [On the Cauchy problem of dispersive Burgers type equations](https://arxiv.org/abs/2103.03588)<br/>
-Ayman R. Said. to appear in SIAM Journal on Mathematical Analysis 2022.
+Ayman R. Said. to appear in SIAM Journal on Mathematical Analysis 2023.
 
 # Paradifferential Calculus
 
