@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Research Associate at [Cambbridge University](https://www.maths.cam.ac.uk/) hosted by [Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
 
-I am a Griffiths Research Assistant Professor (postdoc) at [Duke University](https://math.duke.edu/), hosted by [ Tarek M. Elgindi](http://www.math.ucsd.edu/~telgindi/).
+Previously, I was a Griffiths Research Assistant Professor (postdoc) at [Duke University](https://math.duke.edu/), hosted by [Tarek M. Elgindi](https://sites.google.com/view/tarekelgindi/home).
 
 I obtained my PhD at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Orsay under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations with free boundary." I am interested in mathematical analysis, microlocal analysis, the analysis of PDE and fluid mechanics.
 
