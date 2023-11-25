@@ -15,14 +15,14 @@ I obtained my PhD at ENS Paris-Saclay and at the Laboratoire Mathématiques d'Or
 
 <!--- I am currently a [Program](https://www.msri.org/programs/327) associate at MSRI, Berkley.--->
 
-## Academic Background
+<!--- ## Academic Background
 PhD, ENS Paris Saclay, 2018-2021
 
 Masters 2 AAG, Paris Sud university, 2017-2018
 
 Masters, École Polytechnique, 2016-2018
 
-Engineering and B.S., École Polytechnique, 2014-2018 
+Engineering and B.S., École Polytechnique, 2014-2018 --->
 
 
 ## [Curriculum Vitae](http://aymanrimah.github.io/files/cv Ayman.pdf)
