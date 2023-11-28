@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Associate at [Cambbridge University](https://www.maths.cam.ac.uk/) hosted by [Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
+I am currently a Research Associate at [Cambridge University](https://www.maths.cam.ac.uk/) hosted by [Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
 
 Previously, I was a Griffiths Research Assistant Professor (postdoc) at [Duke University](https://math.duke.edu/), hosted by [Tarek M. Elgindi](https://sites.google.com/view/tarekelgindi/home).
 
