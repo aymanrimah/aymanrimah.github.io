@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ In-Jee Jeong, Ayman R. Said. arXiv preprint 2023.
 # The regularity of the solution map of the water waves system and the dispersive Burgers equation
 
 [Regularity results on the flow maps of periodic dispersive Burgers type equations and the Gravity-Capillary equations](https://arxiv.org/abs/2103.03576) <br/>
-Ayman R. Said. arXiv preprint 2021.
+Ayman R. Said. To appear in Water Waves.
 
 [A geometric proof of the quasi-linearity of the water-waves system](https://arxiv.org/abs/2002.02940)<br/>
 Ayman R. Said. To appear in Indiana University Mathematics Journal 2023.
