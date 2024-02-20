@@ -18,6 +18,11 @@ In-Jee Jeong, Ayman R. Said. arXiv preprint 2023.
 [On the long-time behavior of scale-invariant solutions to the 2d Euler equation and applications](https://arxiv.org/abs/2211.08418) <br/>
 Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2022.
 
+# ODEs with Sobolev vector fields
+[A quantitative DiPerna-Lions theory and exponential mixing rate for passive scalar transport](https://arxiv.org/abs/2402.11642) <br/>
+L. Huysmans, Ayman R. Said. arXiv preprint 2024.
+
+
 # The regularity of the solution map of the water waves system and the dispersive Burgers equation
 
 [Regularity results on the flow maps of periodic dispersive Burgers type equations and the Gravity-Capillary equations](https://arxiv.org/abs/2103.03576) <br/>
