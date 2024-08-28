@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # 2d Incompressible Euler equations 
+[A Classification Theorem for Steady Euler Flows](https://arxiv.org/abs/2408.14662) <br/>
+Tarek M. Elgindi, Yupei Huang, Ayman R. Said, Chunjing Xie. arXiv preprint 2024.
+
 [Small scale creation of the Lagrangian flow in 2d perfect fluids](https://arxiv.org/abs/2401.06476) <br/>
 Ayman R. Said. arXiv preprint 2024.
 
@@ -13,7 +16,7 @@ Ayman R. Said. arXiv preprint 2024.
 Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2023.
 
 [Logarithmic spirals in 2d perfect fluids](https://arxiv.org/abs/2302.09447) <br/>
-In-Jee Jeong, Ayman R. Said. arXiv preprint 2023.
+In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématiques, 2024.
 
 [On the long-time behavior of scale-invariant solutions to the 2d Euler equation and applications](https://arxiv.org/abs/2211.08418) <br/>
 Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2022.
