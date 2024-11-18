@@ -19,7 +19,7 @@ Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2023.
 In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématiques, 2024.
 
 [On the long-time behavior of scale-invariant solutions to the 2d Euler equation and applications](https://arxiv.org/abs/2211.08418) <br/>
-Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2022.
+Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. To appear in Les Annales de l'ENS, 2025.
 
 # ODEs with Sobolev vector fields
 [A quantitative DiPerna-Lions theory and exponential mixing rate for passive scalar transport](https://arxiv.org/abs/2402.11642) <br/>
