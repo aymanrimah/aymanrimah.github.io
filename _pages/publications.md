@@ -22,7 +22,10 @@ In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématique
 Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. To appear in Les Annales de l'ENS, 2025.
 
 # ODEs with Sobolev vector fields
-[A quantitative DiPerna-Lions theory and exponential mixing rate for passive scalar transport](https://arxiv.org/abs/2402.11642) <br/>
+[Mixing Estimates for Passive Scalar Transport by BV Vector Fields](https://arxiv.org/abs/2504.03023) <br/>
+L. Huysmans, Ayman R. Said. arXiv preprint 2025.
+
+[Quantitative Estimates in Passive Scalar Transport: A Unified Approach in W1,p via Christ-Journé Commutator Estimates](https://arxiv.org/abs/2402.11642) <br/>
 L. Huysmans, Ayman R. Said. arXiv preprint 2024.
 
 
