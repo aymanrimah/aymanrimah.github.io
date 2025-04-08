@@ -11,7 +11,7 @@ I am a Chargé de recherche au CNRS at Laboratoire de Mathématiques de Reims (L
 
 During my Postdoc, I was a Research Associate at [Cambridge University](https://www.maths.cam.ac.uk/) hosted by [Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463). I was also a Griffiths Research Assistant Professor at [Duke University](https://math.duke.edu/), hosted by [Tarek M. Elgindi](https://sites.google.com/view/tarekelgindi/home).
 
-I obtained my PhD at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) and at the [Laboratoire Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). My PhD title is "On the regularity of the flow of the Euler equations with free boundary." I am interested in mathematical analysis, microlocal analysis, the analysis of PDE and fluid mechanics.
+I obtained my PhD at [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) and at the [Laboratoire Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/en/) under the supervision of [Thomas Alazard](http://talazard.perso.math.cnrs.fr/). I am interested in mathematical analysis, microlocal analysis, the analysis of PDE and fluid mechanics.
 
 <!--- I am currently a [Program](https://www.msri.org/programs/327) associate at MSRI, Berkley.--->
 
