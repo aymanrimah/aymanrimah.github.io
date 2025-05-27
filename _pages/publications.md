@@ -13,7 +13,7 @@ Tarek M. Elgindi, Yupei Huang, Ayman R. Said, Chunjing Xie. arXiv preprint 2024.
 Ayman R. Said. arXiv preprint 2024.
 
 [Wellposedness and singularity formation beyond the Yudovich class](https://arxiv.org/abs/2312.17610) <br/>
-Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. arXiv preprint 2023.
+Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Accepted, to appear in Journal of the European Mathematical Society.
 
 [Logarithmic spirals in 2d perfect fluids](https://arxiv.org/abs/2302.09447) <br/>
 In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématiques, 2024.
