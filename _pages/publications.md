@@ -7,7 +7,7 @@ author_profile: true
 
 # 2d Incompressible Euler equations 
 [A Classification Theorem for Steady Euler Flows](https://arxiv.org/abs/2408.14662) <br/>
-Tarek M. Elgindi, Yupei Huang, Ayman R. Said, Chunjing Xie. arXiv preprint 2024.
+Tarek M. Elgindi, Yupei Huang, Ayman R. Said, Chunjing Xie, to appear in Duke Mathematical Journal.
 
 [Small scale creation of the Lagrangian flow in 2d perfect fluids](https://arxiv.org/abs/2401.06476) <br/>
 Ayman R. Said. arXiv preprint 2024.
@@ -19,7 +19,7 @@ Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Accepted, to appear in Journal 
 In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématiques, 2024.
 
 [On the long-time behavior of scale-invariant solutions to the 2d Euler equation and applications](https://arxiv.org/abs/2211.08418) <br/>
-Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. To appear in Les Annales de l'ENS, 2025.
+Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Les Annales de l'ENS, 2025.
 
 # ODEs with Sobolev vector fields
 [Mixing Estimates for Passive Scalar Transport by BV Vector Fields](https://arxiv.org/abs/2504.03023) <br/>
