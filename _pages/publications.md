@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 2d Incompressible Euler equations 
-[Generic small-scale creation in the two-dimensional Euler equation]((https://arxiv.org/abs/2603.13079)) <br/>
+[Generic small-scale creation in the two-dimensional Euler equation](https://arxiv.org/abs/2603.13079) <br/>
 Thomas Alazard, Ayman R. Said, arXiv preprint 2026.
 
 [A Classification Theorem for Steady Euler Flows](https://arxiv.org/abs/2408.14662) <br/>
