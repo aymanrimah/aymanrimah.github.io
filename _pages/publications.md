@@ -10,13 +10,13 @@ author_profile: true
 Thomas Alazard, Ayman R. Said, arXiv preprint 2026.
 
 [A Classification Theorem for Steady Euler Flows](https://arxiv.org/abs/2408.14662) <br/>
-Tarek M. Elgindi, Yupei Huang, Ayman R. Said, Chunjing Xie, to appear in Duke Mathematical Journal.
+Tarek M. Elgindi, Yupei Huang, Ayman R. Said. Duke Mathematical Journal, 2026.
 
 [Small scale creation of the Lagrangian flow in 2d perfect fluids](https://arxiv.org/abs/2401.06476) <br/>
 Ayman R. Said. arXiv preprint 2024.
 
 [Wellposedness and singularity formation beyond the Yudovich class](https://arxiv.org/abs/2312.17610) <br/>
-Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Accepted, to appear in Journal of the European Mathematical Society.
+Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Journal of the European Mathematical Society, 2026.
 
 [Logarithmic spirals in 2d perfect fluids](https://arxiv.org/abs/2302.09447) <br/>
 In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématiques, 2024.
@@ -28,8 +28,8 @@ Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Les Annales de l'ENS, 2025.
 [Mixing Estimates for Passive Scalar Transport by BV Vector Fields](https://arxiv.org/abs/2504.03023) <br/>
 L. Huysmans, Ayman R. Said. arXiv preprint 2025.
 
-[Quantitative Estimates in Passive Scalar Transport: A Unified Approach in W1,p via Christ-Journé Commutator Estimates](https://arxiv.org/abs/2402.11642) <br/>
-L. Huysmans, Ayman R. Said. arXiv preprint 2024.
+[A unified approach to mixing and regularity for passive scalar transport by Sobolev vector fields](https://arxiv.org/abs/2402.11642) <br/>
+L. Huysmans, Ayman R. Said. Journal of Functional Analysis, 2026.
 
 
 # The regularity of the solution map of the water waves system and the dispersive Burgers equation
