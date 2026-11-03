@@ -24,6 +24,10 @@ In-Jee Jeong, Ayman R. Said. Journal de l'École polytechnique — Mathématique
 [On the long-time behavior of scale-invariant solutions to the 2d Euler equation and applications](https://arxiv.org/abs/2211.08418) <br/>
 Tarek. M. Elgindi, Ryan M. Muray, Ayman R. Said. Les Annales de l'ENS, 2025.
 
+# 3d Incompressible Euler equations 
+[On smooth inviscid vortices with fat tails](https://arxiv.org/abs/2609.04786) <br/>
+Pierre Raphaël, Ayman R. Said, arXiv preprint 2026.
+
 # ODEs with Sobolev vector fields
 [Mixing Estimates for Passive Scalar Transport by BV Vector Fields](https://arxiv.org/abs/2504.03023) <br/>
 L. Huysmans, Ayman R. Said. arXiv preprint 2025.
